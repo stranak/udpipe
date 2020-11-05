@@ -30,8 +30,8 @@
       <div class="container">
         <!-- breadcrumb -->
         <ul class="breadcrumb">
-          <li><a href="//lindat.mff.cuni.cz/">LINDAT/CLARIN</a></li>
-          <li><a href="//lindat.mff.cuni.cz/services/">Services</a></li>
+          <li><a href="//lindat.cz/">LINDAT/CLARIAH-CZ</a></li>
+          <li><a href="//lindat.cz/services/">Services</a></li>
           <li class="active">UDPipe</li>
         </ul>
 
